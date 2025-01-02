@@ -14,41 +14,41 @@
 
 h1 {
   color: #191970;
-  font-size: 30px;
+  font-size: 90px;
 }
 
 h2 {
   color: #00008B;
-  font-size: 25px;
+  font-size: 75px;
   text-align: center;
 }
 
 h3 {
   color: #00008B;
-  font-size: 20px;
+  font-size: 60px;
   margin-left: 50px;
 }
 
 h4 {
   color: #00008B;
-  font-size: 15px;
+  font-size: 45px;
   margin-left: 40px;
 }
 
 p {
   color: black;
-  font-size: 15px;
+  font-size: 45px;
   margin-left: 20px;
 }
 
 li {
   color: black;
-  font-size: 15px;
+  font-size: 45px;
 }
 
 a {
   color: black;
-  font-size: 15px;
+  font-size: 45px;
 }
 
 #etc {
