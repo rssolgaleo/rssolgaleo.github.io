@@ -1,6 +1,5 @@
 #main-title {
   color: #191970;
-  font-size: 30px;
   text-align: center;
 }
 
@@ -44,6 +43,7 @@ p {
 li {
   color: black;
   font-size: 45px;
+  margin-left: 40px;
 }
 
 a {
